@@ -15,3 +15,8 @@
 7 - Digite seu nome de usuário e senha do GitHub, se solicitado - Faça login no GitHub, se necessário
 
 8 - Faça login no GitHub, se necessário - As alterações devem aparecer no seu repositório no GitHub
+
+
+NEW BRANCH*****
+
+git checkout -b dev
